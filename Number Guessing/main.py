@@ -1,5 +1,5 @@
 """
-Project - Mad Libs Generator
+Project - Number Guessing
 Author - Kushagra Mittal
 Date - 7th Febuary 2023
 
