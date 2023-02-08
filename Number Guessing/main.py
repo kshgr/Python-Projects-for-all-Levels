@@ -1,3 +1,11 @@
+"""
+Project - Mad Libs Generator
+Author - Kushagra Mittal
+Date - 7th Febuary 2023
+
+Concepts = Random Module, range, conditionals
+"""
+
 import random
 number = random.randint(1,10)
 
